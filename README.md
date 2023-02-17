@@ -1,4 +1,4 @@
-### An ATM project with Java.
+### ATM project in Java.
 
 ---
 
